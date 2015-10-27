@@ -39,6 +39,6 @@ Now start reading/hacking around in the source code. I would read `src-cljs/cljs
 
 ## Other Resources
 
-["Clojure for the Brave and True"](http://www.braveclojure.com/)
-[Clojure syntax cheatsheet](http://clojure.org/cheatsheet)
-[Clojurescript reference + web REPL](http://himera.herokuapp.com/index.html)
+* ["Clojure for the Brave and True"](http://www.braveclojure.com/)
+* [Clojure syntax cheatsheet](http://clojure.org/cheatsheet)
+* [Clojurescript reference + web REPL](http://himera.herokuapp.com/index.html)
