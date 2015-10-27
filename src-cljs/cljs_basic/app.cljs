@@ -26,7 +26,7 @@
   (js/console.log "JS syntax"))
 
 (defn init! []
-  ;; If you check devtools in your browser of choice, you should see
+  ;; If you check the developer tools in your browser of choice, you should see
   ;;
   ;; Lisp syntax
   ;; JS syntax

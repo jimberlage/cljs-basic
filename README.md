@@ -28,7 +28,7 @@ To fire up a REPL:
 
 `lein trampoline cljsbuild repl-rhino`
 
-Visit the site, and open Devtools.  You should see
+Visit the site, and open your browser's developer tools.  You should see
 
     Lisp syntax
     JS syntax
